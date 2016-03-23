@@ -2,9 +2,12 @@
 public class Program {
 
 	public static void main(String[] args) {
-	System.out.println("hell world");
+		welcom();
 		
 
+	}
+	public static void welcom(){
+		System.out.println("hell world");
 	}
 
 }
